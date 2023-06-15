@@ -10,7 +10,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title> Owor Car | Statistics </title>
+  <title> Owor | Water Quality Analysis </title>
   <link rel="stylesheet" href="<?= BASE ?>assets/vendors/core/core.css">
   <link rel="stylesheet" href="<?= BASE ?>assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css">
   <link rel="stylesheet" href="<?= BASE ?>assets/fonts/feather-font/css/iconfont.css">
