@@ -1,0 +1,12 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,Ecoli,pH,ElectricalConductivtiy,Turbidity,Color,TotalDissolvedSolids,TotalAlkalinity,Bicarbonates,TotalHardness,CalciumHardness,MagnesiumHardness,Flouride,Chloride,Sulphates,Nitrites,Nitrates,Ammonium,Phosphates,TotalChlorine,FreeChlorine
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,CFU_100ml,pHunits,µs_cm,NTU,PtCo,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,,
+NWSC Kakooge PSP,Kalina zone,Kakooge T/C,36N 1.052127,E22/09422,<1,7.35,420,1.8,<0.2432,294,220,268.4,170.2,86,84.2,1.63,3.33,1.52,0,0.21,0.03,0.18,0.13,0.07
+Katugo private water supply system,Katugo,Katugo T/C,36N 1.156917,E22/09423,TNTC,6.73,867,2,<0.2432,606.9,135,164.7,328.2,146,182.2,0.57,157.87,60.29,0,6.18,0.04,0.48,0,0
+Kyankanwa village borehole,Kyankanwa,Katugo T/C,36N 1.198533,E22/09424,<1,6.8,498,1.9,<0.2432,348.6,115,140.3,162.4,84.4,78,0.38,61.62,17.81,0.01,7.9,0.09,0.33,ND,ND
+NWSC Nakasongola PSP,Wabigalo,Wabigalo,36N 1.251250,E22/09425,<1,6.77,141.5,2.4,21,99.05,40,48.8,38.2,18.8,19.4,0.34,11.54,0.56,0,0.91,0.06,0.3,0.15,0.14
+NWSC Nakasongola Kiosk,Kansirye,Wabigalo,36N 1.294542,E22/09426,10,6.57,134.9,2.6,25,94.43,40,48.8,36.6,17.8,18.8,0.2,10.88,0.61,0,0.22,0.08,0.15,0,0
+Nakasongola A village borehole,Nakasongola A,Nakasongola T/C,36N 1.308018,E22/09427,<1,6.56,334,1.8,3,233.8,120,146.4,98.6,48.4,50.2,0.32,31.07,1.03,0,6.71,0.05,0.36,ND,ND
+NWSC Nakasongola PSP,Nakasongola A,Nakasongola T/C,36N 1.312917,E22/09428,10,6.65,144.6,2.8,29,101.22,42,51.24,43.2,19,24.2,0.11,11.57,1.13,0,0.35,0.08,0.17,0,0
+Nakasongola central police borehole,Nakasongola,Nakasongola T/C,36N 1.313042,E22/09429,32,6.23,666,2.1,4,466.2,130,158.6,135.8,68.4,67.4,0.63,67.93,12.35,0.01,28.99,0.09,0.19,ND,ND
+St. Kizito Sasira borehole,Ssasira,Wabinyonyi,36N 1.333789,E22/09430,<1,6.01,264,1.8,<0.2432,184.8,92,112.24,52.4,25.4,27,0.18,12.12,23.26,0,3.03,0.03,0.16,ND,ND
+Rwenzori bottled water,,,,E22/09431,<1,5.64,132.5,1.9,<0.2432,92.75,47,57.34,36.2,21.6,14.6,0.27,2.08,2.06,0,2.35,0.15,0.44,ND,ND

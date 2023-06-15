@@ -1,0 +1,7 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,EColi,Turbidity,ElectricalConductivity,pH,Totaldisolvedsolids,Chloride,Sulphate,Ammonium,Nitrite,Nitrates,Phosphate
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,CFU_100mL,NTU,µs_cm,pHunits,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L
+Our Lady's Secondary School Kitwekyambogo,Mbogo,Luuka Tc,0.7733216,E22/04394,<1,2.76,480,7.6,336,16.4,98.6,0.024,0.005,3.834,0.281
+Kitwekyambogo primary school,Mbogo,Luuka Tc,0.6981005,E22/04395,<1,1.54,370,7.8,259,5.3,33.6,0.035,0.002,5.19,0.206
+Kiyunga Primary school,Nawamwena,Luuka Tc,0.766237,E22/04396,<1,1.23,261,7.6,183,5.1,22.5,0.048,0.002,3.329,0.209
+Tomborehole,Kiyunga Central,Luuka Tc,0.7833642,E22/04397,<1,1.67,456,7.8,319,5.5,47.4,0.042,0.004,4.548,0.235
+Kiyunga hospital borehole,Kiyunga Hospital,Luuka Tc,0.7663461,E22/04398,<1,1.23,558,7.4,391,34.4,19.2,0.018,0.005,30.057,0.135

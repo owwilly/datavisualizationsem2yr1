@@ -1,0 +1,626 @@
+[
+    {
+        "zone_id": "abavz",
+        "zonal_name": "Aba  Zone"
+    },
+    {
+        "zone_id": "abeakutamc",
+        "zonal_name": "Ministry Center Abeokuta"
+    },
+    {
+        "zone_id": "abujamc",
+        "zonal_name": "Ministry Center Abuja"
+    },
+    {
+        "zone_id": "abujavz",
+        "zonal_name": "Abuja  Zone"
+    },
+    {
+        "zone_id": "accraz",
+        "zonal_name": "Accra Zone"
+    },
+    {
+        "zone_id": "australia",
+        "zonal_name": "Australia \/South  Pacific"
+    },
+    {
+        "zone_id": "BanneA",
+        "zonal_name": "Bukasa MARS"
+    },
+    {
+        "zone_id": "beninvz2",
+        "zonal_name": "Benin Zone 2"
+    },
+    {
+        "zone_id": "beninz1",
+        "zonal_name": "Benin Zone 1"
+    },
+    {
+        "zone_id": "blwchurchzone",
+        "zonal_name": "BLW CHURCH ZONE"
+    },
+    {
+        "zone_id": "blwnec",
+        "zonal_name": "BLW GHANA SUB-ZONE C"
+    },
+    {
+        "zone_id": "blwnec",
+        "zonal_name": "BLW UK SUB-ZONE C"
+    },
+    {
+        "zone_id": "blwned",
+        "zonal_name": "BLW  GHANA SUB ZONE D"
+    },
+    {
+        "zone_id": "blwnee",
+        "zonal_name": "BLW GHANA SUB-ZONE E"
+    },
+    {
+        "zone_id": "blwnef",
+        "zonal_name": "BLW GHANA SUB-ZONE F"
+    },
+    {
+        "zone_id": "blwoup22",
+        "zonal_name": "BLW WALES GROUP"
+    },
+    {
+        "zone_id": "blwugandaz",
+        "zonal_name": "BLW Uganda Zone"
+    },
+    {
+        "zone_id": "capne1",
+        "zonal_name": "Cape Town Zone 1"
+    },
+    {
+        "zone_id": "capne2",
+        "zonal_name": "Cape Town Zone 2"
+    },
+    {
+        "zone_id": "ceadsp",
+        "zonal_name": "CE Amsterdam-DSP"
+    },
+    {
+        "zone_id": "cechad",
+        "zonal_name": "CE Chad"
+    },
+    {
+        "zone_id": "ceidia45",
+        "zonal_name": "CE India Zone"
+    },
+    {
+        "zone_id": "ceuyo",
+        "zonal_name": "CE Uyo"
+    },
+    {
+        "zone_id": "cgm",
+        "zonal_name": "CHURCH GROWTH INTL"
+    },
+    {
+        "zone_id": "dscsz",
+        "zonal_name": "DSC Sub- Zone"
+    },
+    {
+        "zone_id": "durone",
+        "zonal_name": "Durban Zone"
+    },
+    {
+        "zone_id": "easterneuropevr",
+        "zonal_name": "Eastern Europe Region"
+    },
+    {
+        "zone_id": "edonorthcentralvz",
+        "zonal_name": "Edo North & Central Zone"
+    },
+    {
+        "zone_id": "ewce3b",
+        "zonal_name": "EWCA ZONE 3 B"
+    },
+    {
+        "zone_id": "ewcvz1",
+        "zonal_name": "EWC Zone 1 "
+    },
+    {
+        "zone_id": "ewcvz2",
+        "zonal_name": "EWC Zone 2 "
+    },
+    {
+        "zone_id": "ewcvz3",
+        "zonal_name": "EWC Zone 3"
+    },
+    {
+        "zone_id": "ewcvz4",
+        "zonal_name": "EWC Zone 4 "
+    },
+    {
+        "zone_id": "ewcvz5",
+        "zonal_name": "EWC Zone 5 "
+    },
+    {
+        "zone_id": "ewcvz6",
+        "zonal_name": "EWC Zone 6"
+    },
+    {
+        "zone_id": "ibz1",
+        "zonal_name": "Ibadan Zone 1"
+    },
+    {
+        "zone_id": "intate24",
+        "zonal_name": "International Missons for South East Asia\u00a0Directorate"
+    },
+    {
+        "zone_id": "ism",
+        "zonal_name": "ISM"
+    },
+    {
+        "zone_id": "ismuganda",
+        "zonal_name": "ISM UGANDA"
+    },
+    {
+        "zone_id": "itlice",
+        "zonal_name": "ITL OFFICE"
+    },
+    {
+        "zone_id": "kenyaz",
+        "zonal_name": "Kenya Zone"
+    },
+    {
+        "zone_id": "lcm",
+        "zonal_name": "LW CELL MINISTRY"
+    },
+    {
+        "zone_id": "lovoup11",
+        "zonal_name": "Loveworld Ethiopia Group"
+    },
+    {
+        "zone_id": "lovoup19",
+        "zonal_name": "Loveworld  Namibia Group"
+    },
+    {
+        "zone_id": "lovoup55",
+        "zonal_name": "Loveworld Ireland Group"
+    },
+    {
+        "zone_id": "lovoup57",
+        "zonal_name": "Loveworld Canada Group"
+    },
+    {
+        "zone_id": "lsza",
+        "zonal_name": "Lagos Sub Zone A"
+    },
+    {
+        "zone_id": "lszb",
+        "zonal_name": "Lagos Sub Zone B"
+    },
+    {
+        "zone_id": "lszc",
+        "zonal_name": "Lagos Sub Zone C"
+    },
+    {
+        "zone_id": "lvz",
+        "zonal_name": "CELVZ"
+    },
+    {
+        "zone_id": "lwcg1",
+        "zonal_name": "BLW Cameroon Sub-Group 1"
+    },
+    {
+        "zone_id": "lwcg2",
+        "zonal_name": "BLW CAMEROON SUB-GROUP 2"
+    },
+    {
+        "zone_id": "lwcg3",
+        "zonal_name": "BLW Cameroon Sub-Group 3"
+    },
+    {
+        "zone_id": "lwghanaza",
+        "zonal_name": "Loveworld  Ghana Zone A"
+    },
+    {
+        "zone_id": "lwghanazb",
+        "zonal_name": "Loveworld Ghana Zone B"
+    },
+    {
+        "zone_id": "lwgradnet",
+        "zonal_name": "LW GRADUATE NETWORK"
+    },
+    {
+        "zone_id": "lwkenyaz",
+        "zonal_name": "Loveworld  Kenya Zone"
+    },
+    {
+        "zone_id": "lwkids",
+        "zonal_name": "CHILDREN\\'S CHURCH"
+    },
+    {
+        "zone_id": "lwnrus",
+        "zonal_name": "LW North Cyprus"
+    },
+    {
+        "zone_id": "lwrdio42",
+        "zonal_name": "LW RADIO"
+    },
+    {
+        "zone_id": "lwsaza",
+        "zonal_name": "Loveworld SA Zone A"
+    },
+    {
+        "zone_id": "lwsazb",
+        "zonal_name": "Loveworld SA Zone B"
+    },
+    {
+        "zone_id": "lwsazc",
+        "zonal_name": "Loveworld SA Zone C"
+    },
+    {
+        "zone_id": "lwsazd",
+        "zonal_name": "Loveworld SA Zone D"
+    },
+    {
+        "zone_id": "lwsaze",
+        "zonal_name": "Loveworld SA Zone E"
+    },
+    {
+        "zone_id": "lwttry90",
+        "zonal_name": "LW TELEVISION MINISTRY"
+    },
+    {
+        "zone_id": "lwukza",
+        "zonal_name": "Loveworld UK Zone A"
+    },
+    {
+        "zone_id": "lwukzb",
+        "zonal_name": "Loveworld UK Zone B"
+    },
+    {
+        "zone_id": "lwusag4",
+        "zonal_name": "LW USA Group 4"
+    },
+    {
+        "zone_id": "lwusagrp1",
+        "zonal_name": "LW USA GROUP 1"
+    },
+    {
+        "zone_id": "lwusagrp2",
+        "zonal_name": "LW USA GROUP 2"
+    },
+    {
+        "zone_id": "lwusagrp3",
+        "zonal_name": "LW USA GROUP 3"
+    },
+    {
+        "zone_id": "lwza",
+        "zonal_name": "Loveworld Zone A"
+    },
+    {
+        "zone_id": "lwzb",
+        "zonal_name": "Loveworld  Zone B"
+    },
+    {
+        "zone_id": "lwzc",
+        "zonal_name": "Loveworld  Zone C"
+    },
+    {
+        "zone_id": "lwzd",
+        "zonal_name": "Loveworld Zone D"
+    },
+    {
+        "zone_id": "lwze",
+        "zonal_name": "Loveworld Zone E"
+    },
+    {
+        "zone_id": "lwzf",
+        "zonal_name": "Loveworld Zone F"
+    },
+    {
+        "zone_id": "lwzg",
+        "zonal_name": "Loveworld Zone G"
+    },
+    {
+        "zone_id": "lwzh",
+        "zonal_name": "Loveworld Zone H"
+    },
+    {
+        "zone_id": "lwzi",
+        "zonal_name": "Loveworld  Zone I"
+    },
+    {
+        "zone_id": "lwzj",
+        "zonal_name": "Loveworld  Zone J"
+    },
+    {
+        "zone_id": "lwzk",
+        "zonal_name": "Loveworld  Zone K"
+    },
+    {
+        "zone_id": "lwzl",
+        "zonal_name": "Loveworld  zone L"
+    },
+    {
+        "zone_id": "lz1",
+        "zonal_name": "Lagos Zone 1"
+    },
+    {
+        "zone_id": "lz2",
+        "zonal_name": "Lagos Zone 2"
+    },
+    {
+        "zone_id": "lz3",
+        "zonal_name": "Lagos Zone 3"
+    },
+    {
+        "zone_id": "lz4",
+        "zonal_name": "Lagos Zone 4"
+    },
+    {
+        "zone_id": "lz5",
+        "zonal_name": "Lagos Zone 5"
+    },
+    {
+        "zone_id": "lz6",
+        "zonal_name": "Lagos Zone 6"
+    },
+    {
+        "zone_id": "mcc",
+        "zonal_name": "Ministry Center Calabar"
+    },
+    {
+        "zone_id": "middleeast",
+        "zonal_name": "Middle East  & South East Asia Region"
+    },
+    {
+        "zone_id": "midwestz",
+        "zonal_name": "Mid West Zone "
+    },
+    {
+        "zone_id": "nncvz1",
+        "zonal_name": "NC Zone 1"
+    },
+    {
+        "zone_id": "nncvz2",
+        "zonal_name": "NC Zone 2"
+    },
+    {
+        "zone_id": "nnevz1",
+        "zonal_name": "NE Zone 1"
+    },
+    {
+        "zone_id": "nnwvz2",
+        "zonal_name": "NW Zone 2"
+    },
+    {
+        "zone_id": "nsevz1",
+        "zonal_name": "SE Zone 1"
+    },
+    {
+        "zone_id": "nsevz2",
+        "zonal_name": "SS ZONE 3"
+    },
+    {
+        "zone_id": "nssvz1",
+        "zonal_name": "SS Zone 1"
+    },
+    {
+        "zone_id": "nssvz2",
+        "zonal_name": "SS Zone 2"
+    },
+    {
+        "zone_id": "nswvirualz3",
+        "zonal_name": "SW Zone 3"
+    },
+    {
+        "zone_id": "nswvz1",
+        "zonal_name": "SW Zone 1"
+    },
+    {
+        "zone_id": "nswvz2",
+        "zonal_name": "SW Zone 2"
+    },
+    {
+        "zone_id": "nwz1",
+        "zonal_name": "NW Zone 1"
+    },
+    {
+        "zone_id": "offial69",
+        "zonal_name": "OFFICIAL"
+    },
+    {
+        "zone_id": "onitshaz",
+        "zonal_name": "Onitsha Zone"
+    },
+    {
+        "zone_id": "ottz",
+        "zonal_name": "Ottawa Zone"
+    },
+    {
+        "zone_id": "pcdl",
+        "zonal_name": "PCDL"
+    },
+    {
+        "zone_id": "phz1",
+        "zonal_name": "Port Harcourt Zone 1"
+    },
+    {
+        "zone_id": "phz2",
+        "zonal_name": "Port Harcourt Zone 2"
+    },
+    {
+        "zone_id": "phz3",
+        "zonal_name": "Port Harcourt Zone 3"
+    },
+    {
+        "zone_id": "qubators",
+        "zonal_name": "QUBATORS"
+    },
+    {
+        "zone_id": "quebecvz",
+        "zonal_name": "Quebec Zone"
+    },
+    {
+        "zone_id": "reon",
+        "zonal_name": "REON"
+    },
+    {
+        "zone_id": "rin",
+        "zonal_name": "RIN"
+    },
+    {
+        "zone_id": "rorion",
+        "zonal_name": "ROR Global Production"
+    },
+    {
+        "zone_id": "sales",
+        "zonal_name": "sales"
+    },
+    {
+        "zone_id": "savz2",
+        "zonal_name": "SA Zone 2"
+    },
+    {
+        "zone_id": "savz3",
+        "zonal_name": "SA Zone 3"
+    },
+    {
+        "zone_id": "savz4",
+        "zonal_name": "SA Zone 4"
+    },
+    {
+        "zone_id": "saz1",
+        "zonal_name": "SA Zone 1"
+    },
+    {
+        "zone_id": "saz5",
+        "zonal_name": "SA Zone 5"
+    },
+    {
+        "zone_id": "sez3",
+        "zonal_name": "SE Zone 3"
+    },
+    {
+        "zone_id": "som",
+        "zonal_name": "LoveWorld SOM"
+    },
+    {
+        "zone_id": "southamericavr",
+        "zonal_name": "South America Region"
+    },
+    {
+        "zone_id": "swzne4",
+        "zonal_name": "SW Zone 4"
+    },
+    {
+        "zone_id": "swzne5",
+        "zonal_name": "SW Zone 5"
+    },
+    {
+        "zone_id": "teens",
+        "zonal_name": "TEENS MINISTRY"
+    },
+    {
+        "zone_id": "tesnea70",
+        "zonal_name": "Test Zone A"
+    },
+    {
+        "zone_id": "tesneb64",
+        "zonal_name": "Test Zone B"
+    },
+    {
+        "zone_id": "tesnec27",
+        "zonal_name": "Test Zone C"
+    },
+    {
+        "zone_id": "tesone66",
+        "zonal_name": "Test Zone"
+    },
+    {
+        "zone_id": "texasz1",
+        "zonal_name": "USA Region 3"
+    },
+    {
+        "zone_id": "texasz2",
+        "zonal_name": "Dallas Zone"
+    },
+    {
+        "zone_id": "tni",
+        "zonal_name": "TNI"
+    },
+    {
+        "zone_id": "torz",
+        "zonal_name": "Toronto Zone"
+    },
+    {
+        "zone_id": "ukvz1",
+        "zonal_name": "UK Zone 1 (UK Region 2)"
+    },
+    {
+        "zone_id": "ukvz3",
+        "zonal_name": "UK Zone 3 (UK Region 2)"
+    },
+    {
+        "zone_id": "ukvz4",
+        "zonal_name": "UK Zone 4 (Region 1)"
+    },
+    {
+        "zone_id": "ukz1",
+        "zonal_name": "UK Zone 1 (UK Region 1)"
+    },
+    {
+        "zone_id": "ukz2",
+        "zonal_name": "UK Zone 2 (UK Region 1)"
+    },
+    {
+        "zone_id": "ukz3",
+        "zonal_name": "UK Zone 3 (UK Region 1)"
+    },
+    {
+        "zone_id": "ukz4",
+        "zonal_name": "UK Zone 4 (UK Region 2)"
+    },
+    {
+        "zone_id": "ukz4dspr1",
+        "zonal_name": "UKzone4 DSP region 1"
+    },
+    {
+        "zone_id": "usaregion3",
+        "zonal_name": "USA REGION 3"
+    },
+    {
+        "zone_id": "usavz1",
+        "zonal_name": "USA Zone 1 ( Region 1)"
+    },
+    {
+        "zone_id": "usavz2",
+        "zonal_name": "USA Zone 2 ( Region 1)"
+    },
+    {
+        "zone_id": "usaz1r2",
+        "zonal_name": "USA Zone 1 (Region 2)"
+    },
+    {
+        "zone_id": "warrimc",
+        "zonal_name": "Ministry Center Warri"
+    },
+    {
+        "zone_id": "wevz1",
+        "zonal_name": "Western Europe Zone 1"
+    },
+    {
+        "zone_id": "wevz2",
+        "zonal_name": "Western Europe Zone 2"
+    },
+    {
+        "zone_id": "wevz3",
+        "zonal_name": "Western Europe Zone 3"
+    },
+    {
+        "zone_id": "wevz4",
+        "zonal_name": "Western Europe Zone 4"
+    },
+    {
+        "zone_id": "yolnda",
+        "zonal_name": "YOLANDA1"
+    },
+    {
+        "zone_id": "znenew11",
+        "zonal_name": "znewnew99"
+    }
+]

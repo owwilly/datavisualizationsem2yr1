@@ -1,0 +1,13 @@
+{
+    "name": "cim/lw-zones",
+    "description": "Zones, Groups and Churches",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LW\\": "src"
+        },
+        "files": ["src/zones.php", 
+        "src/groups.php",
+         "src/churches.php"]
+    }
+}

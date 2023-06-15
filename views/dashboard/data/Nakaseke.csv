@@ -1,0 +1,21 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,Ecoli,pH,ElectricalConductivtiy,Turbidity,Color,TotalDissolvedSolids,TotalAlkalinity,Bicarbonates,TotalHardness,CalciumHardness,MagnesiumHardness,Flouride,Chloride,Sulphates,Nitrites,Nitrates,Ammonium,Phosphates,TotalChlorine,FreeChlorine
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,CFU/100ml,pH units,µs/cm,NTU,PtCo.,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,mg/L,,
+Bulyake village borehole - DWD 32323,Bulyake,Kaasangombe,36N 0.721368,E22/09400,<1,6,235,13,7,164.5,78,95.16,69,38,31,0.21,5.45,17.79,0.01,1.48,0.2,0.2,ND,ND
+Namasujja A community borehole,Namasujja A,Kaasangombe,36N 0.729460,E22/09401,<1,5.61,264,3,<0.2432,184.8,48,58.56,90.2,28.8,61.4,1.1,26.99,9.6,0.01,2.07,0.03,0.21,ND,ND
+Namasujja parents P/school borehole,Namasujja A,Kaasangombe,36N 0.726038,E22/09402,1,5.31,126.7,1.9,<0.2432,88.69,17,20.74,26,12.2,13.8,0.2,3.57,5.92,0.02,0.95,0.07,0.17,ND,ND
+Kaasangombe community borehole,Kaasangombe,Kaasangombe,36N 0.738432,E22/09403,<1,6.47,287,1.6,<0.2432,200.9,105,128.1,120,41.2,78.8,0.18,11.17,11.21,0.01,5.64,0.09,0.18,ND,ND
+Nambega village borehole,Nambega,Kaasangombe,36N 0.740840,E22/09405,<1,6.72,259,9.3,39,181.3,105,128.1,80.6,63.4,17.2,0.22,9.1,15.13,0,7.01,0.07,0.26,ND,ND
+Nakaseke community borehole,Nakaseke,,36N 0.727852,E22/09406,<1,5.73,252,2,<0.2432,176.4,54,65.88,60.2,36,24.2,0.58,4.87,-0.1,0,4.74,0.02,0.2,ND,ND
+St. Joseph Kiziba R/C P/School borehole,Kiziba,Nakaseke S/C,36N 0.729647,E22/09408,<1,6.31,151.4,7.6,<0.2432,105.98,51,62.22,41.6,18.4,23.2,0.21,5.19,16.87,0.01,1.4,0.05,0.17,ND,ND
+Lufula zone community borehole,Lufula zone,Nakaseke T/C,36N 0.721590,E22/09409,<1,6.85,507,2.1,<0.2432,354.9,195,237.9,153.8,65.8,88,1.08,27.59,37.66,0.01,2.15,0.08,0.19,ND,ND
+St. Paul COU borehole,Church zone,Nakaseke T/C,36N 0.726592,E22/09410,<1,5.84,160.5,21,1,112.35,65,79.3,154.2,67.4,86.8,0.23,3.76,10.4,0.02,0.82,0.1,0.17,ND,ND
+Mosque Shallow well,,Nakaseke T/C,36N 0.733363,E22/09411,9,5.75,157.8,3.1,11,110.46,34,41.48,42,14.6,27.4,0.19,10.84,10.38,0.01,4.45,0.07,0.15,ND,ND
+Kasambya village shallow well,Kasambya A,Nakaseke S/C,36N 0.770128,E22/09412,32,5.81,70,12,210,49,19,23.18,43.8,15.8,28,0.1,6.41,2.63,0,1.44,0.07,0.22,ND,ND
+Kasambya A village shallow well,Kasambya A,Nakaseke S/C,36N 0.765537,E22/09413,<1,5.85,188.6,2.7,12,132.02,70,85.4,27.6,6.2,21.4,0.2,7.6,1.14,0.01,2.36,0.05,0.2,ND,ND
+Kamuli community P/Sch. Borehole,Kamuli,Kikamulo,36N 0.791530,E22/09414,<1,5.77,203.2,1.9,8,142.24,53,64.66,47.2,23.2,24,0.23,9.03,15.57,0,6.24,0.05,0.25,ND,ND
+Nakazzi lugo lumpweo borehole,Nakazzi lumpewo,Kikamulo,36N,E22/09415,<1,6.84,208.3,4,18,145.81,81,98.82,64.8,25.4,39.4,0.61,4.94,0.47,0,4.75,0.08,0.28,ND,ND
+Uganda Matyrs Catholic parish borehole,Lwabijogo,Kiwoko T/C,36N 0.833147,E22/09416,<1,6.25,249,1.2,1,174.3,105,128.1,66,31.8,34.2,0.39,3.53,21.21,0,1.46,0.03,0.27,ND,ND
+Kiwoko borehole,Nakaseta zone,Kiwoko T/C,36N 0.841738,E22/09417,<1,6.92,240,3.8,14,168,62,75.64,79.2,39.2,40,0.18,6.6,33.75,0.01,7.43,-0.01,0.15,ND,ND
+Kiwoko cenetral borehole,Central zone,Kiwoko T/C,36N 0.843922,E22/09418,<1,6.2,347,2.1,4,242.9,92,112.24,56,32.2,23.8,0.27,11.57,26.34,0.01,8.96,0.04,0.25,ND,ND
+Magoma R/C P/School borehole - DWD 51413,Magoma,Kiwoko T/C,36N 0.846500,E22/09419,<1,6.54,166.6,1.8,3,116.62,55,67.1,101.2,48.2,53,0.26,0.88,24.82,0.01,2.47,0.03,0.31,ND,ND
+Potable water standards      (DEAS12:2018 Maximum permisible for Natural potable Water),,,,,<1,5.5-9.5,2500,25,50,1500,100-200,400,600,600,600,1.5,250,400,0.9,10,0.5,0.7,,

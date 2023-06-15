@@ -1,0 +1,11 @@
+{
+    "name": "cim/momo-ug",
+    "description": "Mobile Money API, based on yo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LW\\": "src"
+        },
+        "files": ["src/yo.php"]
+    }
+}

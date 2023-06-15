@@ -1,0 +1,11 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,ElectricalConductivtiy,pH,Turbidity,Color,TotalAlkalinity,Totalhardness,CalciumHardardness,Flouride,Nitrites,Sulphate,Ammonium,Chloride,Phosphates,Nitrates,Sodium,Potassium,Iron
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,µs_cm,pHunits,NTU,PtCo,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L
+katwe protected spring,Bumbajje,Nakisonga,E484934 N27298,E23/00118,55,4.7,2.26,13,13,37,9.4,0.05,0.003,3,0,3,0.03,3.05,2.4,1.2,0.24
+Kiyoora health centre Borehole,Kiyoora,Nakisonga,E484135 N28694,E23/00119,47,5.2,58.6,621,6.2,21,9.8,0.18,0.002,8,0.71,5,0.14,0.16,2.6,0.3,5.1
+Bulonda protected spring MKN/04/231,Bulonda,Ntenjeru,E480003 N28177,E23/00121,90,4.5,1.92,2,5,13,7.8,0.08,0.003,1,<0.002,8,0.02,6.9,7.2,3.3,0.27
+Katosi Borehole,Katosi,Katosi T/C,E477748 N16822,E23/00122,434,4.9,1.93,<0.2432,8.4,67,44,0.1,0.005,7,0.01,50,0.04,27,32,33,0.19
+Nakisunga protected spring MKN/04/395,Nakisunga,Nakisunga,E477209 N31013,E23/00127,43,4.7,2.34,18,8.8,11,7.8,0.08,0.002,2,0.05,4,0.02,1.82,2.6,1.7,0.1
+Oluzi lwa mulule protected spring,Kisilamu,Nakisunga,E475151 N34025,E23/00128,96,4.8,2.1,5,17,24,13,0.12,0.002,5,0,6,0.05,5.3,6.8,4.8,0.01
+Kitega Wanton protected spring,Kitega Wanton,Mukono central division,E473559 N38474,E23/00129,122,5.1,2.84,29,15,30,15,0.12,0.006,3,0.13,18,0.04,5.2,9.3,4.4,0.32
+Upper Kauga borehole,Upper Kauga,Mukono central division,E471067 N40346,E23/00074,122,5.4,1.76,2,32,26,18,0.11,0.008,2,0.02,3,0.12,6.1,9,5.6,0.07
+Potable water standards      (DEAS12:2018 Maximum permisible for Natural potable Water),,,,,2500,5.5-9.5,25,50,100-200,600,600,1.5,0.9,400,0.5,250,0.7,10,200,50,0.5

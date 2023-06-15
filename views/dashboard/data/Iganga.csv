@@ -1,0 +1,11 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,ElectricalConductivtiy,pH,Turbidity,Color,TotalAlkalinity,Totalhardness,CalciumHardardness,Flouride,Nitrites,Sulphate,Ammonium,Chloride,Phosphates,Nitrate,Sodium,Potassium,Iron
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,µs_cm,pHunits,NTU,PtCo,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L
+"Magafira ,mosque Shallow well",Masaba Igenge,Bulamagi,E547731 N64050,E23/00075,162,4.9,1.67,1,12,26,15,0.12,0.005,39,0.1,4,0.03,4.29,13,10,0.04
+CMS shallow well,CMS,Bulamagi,E550339 N65890,E23/00076,384,5.3,1.74,6,31,110,69,0.09,0.054,11,0.03,47,0.1,19,26,10,0.07
+Resource centre Busoga University Borehole,Kasokoso estate,Iganga municipality,E552757 N67752,E23/00077,926,6,1.85,2,110,250,170,0.12,0.192,35,2.04,122,0.04,36,85,33,0.05
+Igulusa Shallow well,Igulusa,Nakalama,E553164  N70624,E23/00079,240,5.4,2.71,12,58,75,48,0.18,0.031,24,0.08,13,0.1,5.6,13,12,0.03
+Mukama protected spring,Namungalwe T/C,Namungalwe,E554297 N78825,E23/00081,151,5.9,2.41,20,44,53,29,0.18,0.006,2,0.01,4,0.05,8.13,11,1.8,0.05
+Nambale B/H,Nambale,Nambale,E556071 N86301,E23/00082,231,6,1.94,19,92,67,34,0.23,0.004,27,0.04,2,0.14,0.73,24,5.1,<0.03
+Walumbe protected spring,Nambale,Nambale,E556034 N86571,E23/00083,218,5.6,2.09,17,20,65,37,0.29,0.004,14,0.05,12,0.26,3.56,17,3.6,<0.03
+Nabikoote Primary Sch Borehole DWD 24675,Nabikoote,Namungalwe,E553607 N77104,E23/00085,108,5.2,1.91,3,33,27,9.6,0.06,0.003,4,<0.002,3,0.09,4.79,13,3,0.09
+Busei Shallow well,Busei,Nakalama,E555219 N68380,E23/00087,276,5.4,1.85,2,48,50,30,0.08,0.004,25,<0.002,16,0.04,9.7,27,8,0.06

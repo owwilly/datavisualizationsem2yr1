@@ -1,0 +1,21 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,EColi,Turbidity,FieldTemperature,ElectricalConductivtiy,pH,Totaldisolvedsolids,Chloride,Sulphate,Ammonium,Nitrite,Nitrates,Phosphate
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,CFU_100ml,NTU,oC,µs_cm,pHunits,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L
+Aliganyira shallow well or Bangirana shallow well,Kyabakwerere,Bigodi Town Council,212591.0742,E22/03131,9,1.24,25,76,6.9,53,1.4,9.7,0,0,,
+Kihoima bore hole,Kihoima,Bigodi Town Council,213852.3355,E22/03132,<1,1.03,23.1,134.2,7.1,94,1.3,15.7,0,0,,
+Basaliza spring,Kihoima,Bigodi Town Council,214347.9953,E22/02818,108,0.99,23,116.5,7.38,82,1,12.5,0,0,,
+Kamwenge College School  Tap,Ganyenda I,Kamwenge,,E22/02856,TNTC,0.85,24.9,267,7.35,187,8.6,64.3,0.1,0,,
+Machiro Primary School Tap,Kinoni I,Kamwenge,,E22/02857,TNTC,0.95,23.7,275,7.41,193,9.3,54.4,0,0,,
+Machiro Primary School BH,Kinoni I,Kamwenge,,E22/02858,<1,0.96,24,64.7,7.06,45,0.5,6.2,0,0,,
+Agaba Waren Tap,Kengoma II,Kabambiro,223026.7796,E22/02989,<1,104,24.3,266,7.53,186,8.8,65.2,0,0,,
+Kishiza shallow well,Burengye,Kabambiro,225109.3864,E22/02990,36,1.08,24.2,420,7.87,294,9.9,61.2,0,0,,
+Bamurahura s/w,Burengye,Kabambiro,225548.7911,E22/02991,<1,1.13,24.1,323,7.95,226,5.4,31.5,0,0,,
+Nyamashegwa eremera BH,Nyamashegwa I,Kabambiro,225229.8096,E22/02992,<1,0.97,24.3,157.4,7.65,110,1.5,18.7,0,0,,
+Bazerio musheroko shallow well,Kengoma II,Kabambiro,226915.384,E22/02993,102,1.1,24.4,562,8.15,393,10.7,103.5,0,0,,
+Maniriho Sharon psp,Kengoma II,Kabambiro,224562.0547,E22/02994,<1,1.1,24.1,284,7.56,199,10.2,58.2,0,0,,
+Akako shallow well,Kengoma II,Kabambiro,226008.0612,E22/02995,66,1.02,24.4,357,8.05,250,12.5,31.7,0,0,,
+Mpongerurwimo psp,Kengoma II,Kabambiro,224772.1702,E22/02996,<1,0.85,24.4,271,7.63,190,11.1,66.6,0.1,0,,
+Kamagege shallow well,Nkoma,Nkoma-katalyeba Town Council,237987.0935,E22/04762,TNTC,26,,328,5.98,230,9,44.3,0,0,2,0
+Kinyonza protected spring,Kinyonza,Nkoma-katalyeba Town Council,239332.1297,E22/04763,3,1.5,,380,6.36,266,15.2,32,0.1,0,2.4,0.1
+Damasiko Primary School RAINTANK,Damasiko,Nkoma,,E22/04764,1,1.2,,7.87,5.41,6,0.1,1.1,0.267,0.003,0.664,0.117
+Barungi protected spring,Kikiri,Bwizi,247577.0344,E22/04765,2,3.25,,387,6.14,271,4.9,31.4,0.029,0.006,0.868,0.166
+Rutooma protected spring,Rutooma,Bwizi,247946.5386,E22/04766,4,4.1,,216.5,5.94,152,2,12.9,0.023,0.003,3.492,0.062

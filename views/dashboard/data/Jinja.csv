@@ -1,0 +1,14 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,ElectricalConductivity,pH,Turbidity,Color,TotalAlkalinity,Totalhardness,CalciumHardardness,Flouride,Nitrites,Sulphate,Ammonium,Chloride,Phosphates,Nitrates,Sodium,Potassium,Iron,FreeChlorine
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,µs_cm,pHunits,NTU,PtCo,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L
+Kilikwani tap,Bugembe,Mafubira division,E526362 N51478,E23/00103,103,6.9,2.34,22,43,33,18,0.26,0.015,4,0.16,5,0.04,0.32,8.9,3,0.27,0.02
+Ndiba Roseline tap,Masese,Walukuba division,E526349 N49702,E23/00104,111,6.7,2.23,20,48,35,19,0.23,0.003,4,<0.002,5,0.1,2.49,9.2,3.2,0.16,0
+Musisi bad man tap,Masese,Walukuba division,E526921 N48543,E23/00105,101,6.8,2.92,15,41,27,19,0.26,0.008,4,0.04,5,0.06,0.51,8.5,2.9,0.34,0.05
+Jinja college Borehole,Rubaga hill,Kimaka-Mpumudde,E523658 N49584,E23/00109,648,6.6,2.12,4,175,310,125,0.67,0.007,69,<0.002,51,1,6.7,11,4,0.07,
+Mpumudde mosque B/H,Mpumudde,Mpumudde,E523831 N51559,E22/00110,1041,6.8,3.48,27,320,430,230,0.68,0.081,62,0.02,69,0.06,18,48,13,2.16,
+Mawuta B/H C046,Mawuta,Mafubira division,E524050 N54463,E23/00111,1393,6.9,6.25,75,350,730,400,0.32,0.014,234,<0.002,148,0.12,0.32,16,5.2,0.29,
+Nsube B/H,Nsube,Mafubira division,E524435 N61008,E23/00112,492,6.5,1.91,1,230,220,105,0.27,0.007,21,<0.002,8,0.05,6.7,20,4,0.31,
+Mutai S/W,Mutai,Buwenge,E524220 N61707,E23/00113,292,6,1.85,1,91,120,60,0.28,0.004,28,0.04,8,0.11,6.1,17,1.4,0.15,
+Mutai police post tap,Mutai,Buwenge,E523590 N62539,E23/00114,106,6.7,2.11,11,41,36,16,0.29,0.003,5,0.03,6,0.11,0.51,9.3,3.1,0.13,0
+Kagoma protected spring,Kagoma,Buwenge,E522300 N65456,E23/00115,198,5.4,2.37,6,38,62,38,0.05,0.005,15,0,13,0.03,7.6,9.2,5.1,0.24,
+AGM Tap,Nalufenya,Mpumudde division,E521619 N48543,E23/00117,104,6.8,2.43,22,46,33,20,0.28,0.036,5,0.12,5,0.03,0.22,8.9,3.1,0.24,0.04
+Potable water standards      (DEAS12:2018 Maximum permisible for Natural potable Water),,,,,2500,5.5-9.5,25,50,100-200,600,600,1.5,0.9,400,0.5,250,0.7,10,200,50,0.5,_

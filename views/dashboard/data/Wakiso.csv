@@ -1,0 +1,11 @@
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,FieldTempeature,DissolvedOxygen,Turbidity,pH,ElectricalConductivity,TotalDisolvedSolids,Totalhardness,Calciumhardness,Magnesiumhardness,Calcium,Magnesium,Sodium,Potassium,TotalAlkalinity,Bicarbonates,Fluoride,Sulphates,Nitrates,Nitrites,Ammonium,Phosphates,TotalIron,Manganese,Silica,Ecoli
+SourceName,Village,Subcounty,GPS,LabIdentifierCode,oC,mg_L,NTU,pHunits,µS_cm,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,mg_L,CFU/100ml
+Nalongo spring,Kabojja A,Kyengera T.C,36N 0446673,E23/01710,24,5,1.85,5.44,235,165,80,50,30,20,7,12,3.6,56,68,0.13,0.7,9.85,0.005,1.05,0.03,0.05,0.585,23.9,20
+Kabojja B Spring,Kabojja B,Kyengera T.C,36N 0446407,E23/01711,24.4,1.11,1.77,4.8,200,140,34,11,23,4,6,19,5.4,11,13,0.07,0.7,12.22,0.005,0.55,0.04,0.08,1.244,21.5,2
+Kinawa Motorised hand dug well,Kinawa,Kyengera T.C,36N 0445662,E23/01712,27.5,5.5,1.8,4.25,223,156,49,18,31,7,7,18,4.3,4,5,0.15,0.7,15.57,0.007,0.27,0.05,0.05,0.599,18,<1
+Kikajjo Spring,Kikajjo,Kyengera T.C,36N 0445662,E23/01713,24,3.2,1.9,4.88,224,157,58,22,36,9,9,14,5.9,16,20,0.11,5.9,11.09,0.002,0.02,0.03,0.17,0.364,25.8,8
+Kasenge Health Centre II Borehole,Kasenge,Kyengera T.C,36N 0445265,E23/01714,23.7,4.3,1.78,5.9,163,114,54,34,20,14,5,13,2.8,69,84,0.19,1.3,2.11,0.002,0.04,0.19,0.03,0.062,27.2,<1
+Kasenge Pri Sch Shallow well,Kasenge,Kyengera T.C,36N 0444870,E23/01715,24.8,3.5,1.96,4.38,161,113,30,12,18,5,4,13,5.4,5.6,7,0.07,0.5,11.38,0.003,0.05,0.03,0.06,0.899,23.8,<1
+Katalemwa Pri. School,Katalemwa,Nakawuka,36N 0041632,E23/01716,24,3.5,21,5,57,40,38,7.8,30.2,3,7,1.3,1.1,18,22,0.15,0.3,1.34,0.013,0.16,0.26,2.05,0.177,13.4,2
+Nankonge Borehole,Katalemwa,Nakawuka,36N 0440006,E23/01717,23.5,4.8,4.45,4.8,38,27,16,1.6,14.4,1,3,1.4,1,12,15,0.12,1.2,1.54,0.002,0.03,0.06,0.21,0.318,20.3,<1
+Gambirana shallow well,Nakawuka,Nakawuka,36N 0440026,E23/01718,23,4.2,2.65,4.8,67,47,25,9,16,4,4,2.9,1.1,10,12,0.16,2.8,3.23,0.003,0.04,0.11,0.11,0.421,20,19

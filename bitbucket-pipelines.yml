@@ -1,0 +1,16 @@
+pipelines:
+ branches:
+  master:
+    - step:
+        deployment: web1
+        caches:
+          - composer
+        script:
+          - pipe: atlassian/rsync-deploy:0.4.1
+            variables:
+              USER: $USER
+              SERVER: $SERVER50
+              REMOTE_PATH: ''
+              LOCAL_PATH: '.'
+              EXTRA_ARGS: '--exclude=uploads/* --exclude=.git --exclude=bitbucket-pipelines.yml --exclude=.bitbucket --exclude=.vscode --exclude=composer.*'           
+    
